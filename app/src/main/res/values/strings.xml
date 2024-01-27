@@ -1,0 +1,11 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name"> X-0 Game</string>
+    <string name="size_of_board">3</string>
+    <string name="X">" X "</string>
+    <string name="O">" O "</string>
+    <string name="none">" "</string>
+    <string name="turn">Turn:</string>
+    <string name="restart">Restart</string>
+    <string name="x_0_game">X-0 Game</string>
+</resources>

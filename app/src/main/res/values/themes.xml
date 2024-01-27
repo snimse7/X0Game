@@ -1,0 +1,7 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.XOGame" parent="Theme.AppCompat.NoActionBar">
+        <!-- Primary brand color. -->
+
+    </style>
+</resources>
